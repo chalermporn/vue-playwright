@@ -1,0 +1,281 @@
+{
+  "version": "1.30.0",
+  "viteVersion": "4.1.1",
+  "registerSourceHash": "70e6c79b225142d585a8dc552c2ae02514272ded",
+  "components": [
+    {
+      "fullName": "__components_Button_vue",
+      "importPath": "@/components/Button.vue",
+      "isModuleOrAlias": true
+    },
+    {
+      "fullName": "__components_DefaultSlot_vue",
+      "importPath": "@/components/DefaultSlot.vue",
+      "isModuleOrAlias": true
+    },
+    {
+      "fullName": "__components_EmptyTemplate_vue",
+      "importPath": "@/components/EmptyTemplate.vue",
+      "isModuleOrAlias": true
+    },
+    {
+      "fullName": "__components_Component_vue",
+      "importPath": "@/components/Component.vue",
+      "isModuleOrAlias": true
+    },
+    {
+      "fullName": "__components_NamedSlots_vue",
+      "importPath": "@/components/NamedSlots.vue",
+      "isModuleOrAlias": true
+    },
+    {
+      "fullName": "__components_MultiRoot_vue",
+      "importPath": "@/components/MultiRoot.vue",
+      "isModuleOrAlias": true
+    },
+    {
+      "fullName": "__components_Counter_vue",
+      "importPath": "@/components/Counter.vue",
+      "isModuleOrAlias": true
+    },
+    {
+      "fullName": "__App_vue",
+      "importPath": "@/App.vue",
+      "isModuleOrAlias": true
+    }
+  ],
+  "tests": {
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/tests/events/events.spec.js": {
+      "timestamp": 1676137548895.4197,
+      "components": [
+        "__components_Button_vue"
+      ]
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/tests/events/events.spec.ts": {
+      "timestamp": 1676137548896.8215,
+      "components": [
+        "__components_Button_vue"
+      ]
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/tests/events/events.spec.tsx": {
+      "timestamp": 1676137548898.2383,
+      "components": [
+        "__components_Button_vue",
+        "__components_DefaultSlot_vue"
+      ]
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/tests/render/render.spec.js": {
+      "timestamp": 1676137548900.496,
+      "components": [
+        "__components_Button_vue",
+        "__components_EmptyTemplate_vue",
+        "__components_Component_vue"
+      ]
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/tests/render/render.spec.ts": {
+      "timestamp": 1676137548901.915,
+      "components": [
+        "__components_Button_vue",
+        "__components_EmptyTemplate_vue",
+        "__components_Component_vue"
+      ]
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/tests/render/render.spec.tsx": {
+      "timestamp": 1676137548903.5457,
+      "components": [
+        "__components_Button_vue",
+        "__components_EmptyTemplate_vue"
+      ]
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/tests/slots/slots.spec.js": {
+      "timestamp": 1676137548905.602,
+      "components": [
+        "__components_DefaultSlot_vue",
+        "__components_NamedSlots_vue"
+      ]
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/tests/slots/slots.spec.ts": {
+      "timestamp": 1676137548906.9248,
+      "components": [
+        "__components_DefaultSlot_vue",
+        "__components_NamedSlots_vue"
+      ]
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/tests/slots/slots.spec.tsx": {
+      "timestamp": 1676137548908.2866,
+      "components": [
+        "__components_Button_vue",
+        "__components_DefaultSlot_vue",
+        "__components_NamedSlots_vue"
+      ]
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/tests/unmount/unmount.spec.js": {
+      "timestamp": 1676137548910.6575,
+      "components": [
+        "__components_MultiRoot_vue"
+      ]
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/tests/unmount/unmount.spec.ts": {
+      "timestamp": 1676137548913.339,
+      "components": [
+        "__components_Button_vue",
+        "__components_MultiRoot_vue"
+      ]
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/tests/unmount/unmount.spec.tsx": {
+      "timestamp": 1676137548914.6406,
+      "components": [
+        "__components_MultiRoot_vue"
+      ]
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/tests/update/update.spec.js": {
+      "timestamp": 1676137548916.9226,
+      "components": [
+        "__components_Counter_vue"
+      ]
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/tests/update/update.spec.ts": {
+      "timestamp": 1676137548918.2163,
+      "components": [
+        "__components_Counter_vue"
+      ]
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/tests/update/update.spec.tsx": {
+      "timestamp": 1676137548919.538,
+      "components": [
+        "__components_Counter_vue"
+      ]
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/tests/vue-router/vue-router.spec.js": {
+      "timestamp": 1676137548921.5923,
+      "components": [
+        "__App_vue"
+      ]
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/tests/vue-router/vue-router.spec.ts": {
+      "timestamp": 1676137548923.0095,
+      "components": [
+        "__App_vue"
+      ]
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/tests/vue-router/vue-router.spec.tsx": {
+      "timestamp": 1676137548924.5728,
+      "components": [
+        "__App_vue"
+      ]
+    }
+  },
+  "sources": {
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/playwright/index.html": {
+      "timestamp": 1676137548857.0342
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/playwright/index.ts": {
+      "timestamp": 1676137548858.076
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/vue@3.2.47/node_modules/vue/dist/vue.runtime.esm-bundler.js": {
+      "timestamp": 1666688216849.7927
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/src/components/DefaultSlot.vue": {
+      "timestamp": 1676137548877.0415
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/@playwright+experimental-ct-vue@1.30.0_vue@3.2.47/node_modules/@playwright/experimental-ct-vue/hooks.mjs": {
+      "timestamp": 1676133224254.3694
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/src/components/EmptyTemplate.vue": {
+      "timestamp": 1676137548877.8643
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/src/components/Component.vue": {
+      "timestamp": 1676137548875.2124
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/src/components/NamedSlots.vue": {
+      "timestamp": 1676137548879.5674
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/src/components/Button.vue": {
+      "timestamp": 1676137548874.183
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/src/router/index.ts": {
+      "timestamp": 1676137548884.7344
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/src/components/MultiRoot.vue": {
+      "timestamp": 1676137548878.6436
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/src/App.vue": {
+      "timestamp": 1676137548870.382
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/@vue+compiler-dom@3.2.47/node_modules/@vue/compiler-dom/dist/compiler-dom.esm-bundler.js": {
+      "timestamp": 1676111919413.7532
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/src/components/Counter.vue": {
+      "timestamp": 1676137548876.0828
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/@vue+runtime-dom@3.2.47/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": {
+      "timestamp": 1676111919499.642
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/src/pages/DashboardPage.vue": {
+      "timestamp": 1676137548882.2776
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/src/assets/logo.svg": {
+      "timestamp": 1676137548872.757
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/src/pages/LoginPage.vue": {
+      "timestamp": 1676137548883.2122
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/vue-router@4.1.6_vue@3.2.47/node_modules/vue-router/dist/vue-router.mjs": {
+      "timestamp": 1666688216056.9167
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/@vue+shared@3.2.47/node_modules/@vue/shared/dist/shared.esm-bundler.js": {
+      "timestamp": 1676111919469.3374
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/@vue+compiler-core@3.2.47/node_modules/@vue/compiler-core/dist/compiler-core.esm-bundler.js": {
+      "timestamp": 1676111922458.7183
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/@vue+runtime-core@3.2.47/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": {
+      "timestamp": 1676111921379.17
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/@vue+devtools-api@6.5.0/node_modules/@vue/devtools-api/lib/esm/index.js": {
+      "timestamp": 1666688224245.4788
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/@vue+reactivity@3.2.47/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": {
+      "timestamp": 1676111919767.578
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/@vue+devtools-api@6.5.0/node_modules/@vue/devtools-api/lib/esm/const.js": {
+      "timestamp": 1666688224242.35
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/@vue+devtools-api@6.5.0/node_modules/@vue/devtools-api/lib/esm/env.js": {
+      "timestamp": 1666688224242.4807
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/@vue+devtools-api@6.5.0/node_modules/@vue/devtools-api/lib/esm/proxy.js": {
+      "timestamp": 1666688224245.4492
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/@vue+devtools-api@6.5.0/node_modules/@vue/devtools-api/lib/esm/plugin.js": {
+      "timestamp": 1666688224242.2942
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/@vue+devtools-api@6.5.0/node_modules/@vue/devtools-api/lib/esm/api/index.js": {
+      "timestamp": 1666688224245.3967
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/@vue+devtools-api@6.5.0/node_modules/@vue/devtools-api/lib/esm/time.js": {
+      "timestamp": 1666688224246.8264
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/@vue+devtools-api@6.5.0/node_modules/@vue/devtools-api/lib/esm/api/api.js": {
+      "timestamp": 1666688224242.2942
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/@vue+devtools-api@6.5.0/node_modules/@vue/devtools-api/lib/esm/api/app.js": {
+      "timestamp": 1666688224242.2942
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/@vue+devtools-api@6.5.0/node_modules/@vue/devtools-api/lib/esm/api/component.js": {
+      "timestamp": 1666688224242.2942
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/@vue+devtools-api@6.5.0/node_modules/@vue/devtools-api/lib/esm/api/context.js": {
+      "timestamp": 1666688224242.2942
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/@vue+devtools-api@6.5.0/node_modules/@vue/devtools-api/lib/esm/api/hooks.js": {
+      "timestamp": 1666688224242.2942
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/node_modules/.pnpm/@vue+devtools-api@6.5.0/node_modules/@vue/devtools-api/lib/esm/api/util.js": {
+      "timestamp": 1666688224242.2942
+    },
+    "/Users/bird/DEMO/PLAYWRIGHT/vue-playwright/src/assets/index.css": {
+      "timestamp": 1676137548871.8174
+    }
+  }
+}
